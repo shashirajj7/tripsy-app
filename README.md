@@ -35,7 +35,7 @@ Tripsy is a comprehensive travel and tourism application built with **Flutter**.
 
 | Asset | Type | Size | Link |
 |:------|:-----|:-----|:-----|
-| 📦 **Tripsy.apk** | Android Installer | ~45 MB | [⬇️ **Download APK**](./Tripsy.apk) |
+| 📦 **Tripsy.apk** | Android Installer | ~45 MB | [⬇️ **Download APK**](https://github.com/shashirajj7/tripsy-app/raw/main/Tripsy.apk) |
 
 > **Requirement**: Android 7.0 (API 24) or higher.
 >
