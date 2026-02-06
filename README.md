@@ -26,13 +26,20 @@ Tripsy is a comprehensive travel and tourism application built with **Flutter**.
   - Smooth animations and transitions.
   - Responsive design.
 
-## 📥 Download APK
+## � Releases
 
-You can download the latest version of the app directly from this repository:
+### v1.0.0 - Initial Release (Latest)
+**📅 Released:** Feb 06, 2026
 
-[**Download TRIPSYY APK**](./Tripsy.apk)
+**Downloads:**
 
-> **Note**: This APK is a release build for Android devices.
+| Asset | Type | Size | Link |
+|:------|:-----|:-----|:-----|
+| 📦 **Tripsy.apk** | Android Installer | ~45 MB | [⬇️ **Download APK**](./Tripsy.apk) |
+
+> **Requirement**: Android 7.0 (API 24) or higher.
+>
+> *Download the APK above and install it on your device to test the app.*
 
 ## 🛠️ Tech Stack
 
